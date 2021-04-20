@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="FilaPrioridade.h" Top="No" Tabpos="1" TopLine="1">
+			<Cursor Line="7" Column="2"/>
+		</File>
+		<File Name="FilaPrioridade.c" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+			<Selection Line="3" Column="28"/>
+		</File>
+		<File Name="Main.c" Top="Yes" Tabpos="3" TopLine="1">
+			<Cursor Line="15" Column="20"/>
+		</File>
+	</Files>
+</Layout>
